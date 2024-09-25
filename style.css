@@ -19,4 +19,9 @@ details-marker { display: none; } details[open] summary ~ * { animation: sweep .
 
 isolate; margin-bottom: 1rem; background-color: #EEEEEE; padding: 1rem; } @keyframes sweep { 0%
 {opacity: 0; margin-top: -10px} 100% {opacity: 1; margin-top: 0px} }
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 </style>
