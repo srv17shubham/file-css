@@ -25,3 +25,27 @@ img {
 }
 
 </style>
+/* Class for display block and center alignment */
+.block-center {
+    display: block;
+    margin: auto;
+}
+
+/* Class for hiding elements with display:none and visibility:hidden */
+.hidden-invisible {
+    display: none;
+    visibility: hidden;
+}
+
+/* Class for center text alignment */
+.center-text {
+    text-align: center;
+}
+
+/* Class for tiny text with font-size:1px and opacity */
+.tiny-hidden-text {
+    font-size: 1px;
+    opacity: 0;
+}
+
+
